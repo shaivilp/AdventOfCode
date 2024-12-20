@@ -97,4 +97,6 @@ int main(){
 
     cout << "[Part 1] Number of safe reports " << num_safe << endl;
     cout << "[Part 2] Number of safe reports after dampener " << num_safe_after_dampener << endl;
+
+    return 0;
 }

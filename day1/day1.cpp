@@ -59,4 +59,6 @@ int main(){
     }
 
     cout << "[Part 2] Similarity score: " << similarity_score << endl;
+
+    return 0;
 }   
